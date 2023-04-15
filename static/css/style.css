@@ -3,6 +3,9 @@
 html {
   font-size: 14px;
 }
+html {
+  font-size: 14px;
+}
 body {
   font-family: 'Noto Sans', sans-serif;
 }
@@ -49,4 +52,3 @@ a {
   right: 20px;
   z-index: 10;
 }
-
